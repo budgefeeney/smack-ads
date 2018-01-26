@@ -3,7 +3,7 @@
 This is part of a multipart tutorial on how to build an ad-engine, whose parts are
 
 1. **How to store data using Cassandra**
-2. [Moving data using Kafka and Cassandra](tut-kafka)
+2. [Routing data using Kafka with Cassandra](tut-kafka)
 3. [Creating click-optimisation policies using Spark](tut-spark)
 4. [Creating click-through reports using ElasticSearch](tut-elastic)
 
